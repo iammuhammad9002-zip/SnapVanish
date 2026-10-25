@@ -1,0 +1,2 @@
+# SnapVanish
+Snap &amp; Disappear
